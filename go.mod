@@ -1,3 +1,3 @@
-module github.com/leor-wlogger
+module github.com/leor-w/logger
 
 go 1.18
