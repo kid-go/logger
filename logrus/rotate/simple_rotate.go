@@ -1,7 +1,7 @@
 package rotate
 
 import (
-	"github.com/leor-w/kid/plugin/logger/logrus/formatter"
+	"github.com/leor-w/logger/logrus/formatter"
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
 	"github.com/rifflock/lfshook"
 	"github.com/sirupsen/logrus"

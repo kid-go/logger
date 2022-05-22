@@ -1,11 +1,12 @@
 package logger
 
 import (
-	"github.com/leor-w/kid/logger"
-	"github.com/leor-w/kid/plugin/logger/logrus"
-	"github.com/leor-w/kid/plugin/logger/logrus/formatter"
 	"sync"
 	"time"
+
+	"github.com/leor-w/kid/logger"
+	"github.com/leor-w/logger/logrus"
+	"github.com/leor-w/logger/logrus/formatter"
 )
 
 var (

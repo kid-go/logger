@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"github.com/leor-w/kid/plugin/logger/logrus/rotate"
+	"github.com/leor-w/logger/logrus/rotate"
 	"testing"
 	"time"
 )
